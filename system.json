@@ -2,7 +2,7 @@
   "id": "dark-heresy-2nd",
   "title": "Dark Heresy 2nd Edition",
   "description": "Dark Heresy 2nd Edition - Foundry VTT",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "compatibility": {
     "minimum": 12,
     "verified": "12.331",
